@@ -1,0 +1,9 @@
+# Netlify config for LMS frontend (set base directory to "frontend" in Netlify site settings)
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
