@@ -28,8 +28,8 @@ A full-stack Learning Management System built with the MERN stack (MongoDB, Expr
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd "Mernstack Final Project - Haider Ali"
+git clone https://github.com/haider8278/mernstack-final-project-haider-ali.git
+cd "mernstack-final-project-haider-ali"
 ```
 
 ### 2. Backend setup
@@ -123,7 +123,7 @@ Output is in `frontend/dist/`. Serve with any static host or use `npm run previe
 
 ### Deployment links (fill after deploy)
 
-- **Backend API:** _e.g. https://your-lms-api.onrender.com_
+- **Backend API:** _e.g. https://your-lms-api.vercel.app_
 - **Frontend:** _e.g. https://your-lms.vercel.app_
 
 ---
@@ -132,14 +132,38 @@ Output is in `frontend/dist/`. Serve with any static host or use `npm run previe
 
 Add screenshots here after deployment or from local run:
 
-| Page            | Description                    | Screenshot        |
-|-----------------|--------------------------------|-------------------|
-| Home            | Hero, featured courses, CTA    | _Add screenshot_  |
-| Course Listing  | Grid of courses                | _Add screenshot_   |
-| Login           | Login form                     | _Add screenshot_   |
-| Student Dashboard | My Courses, Profile           | _Add screenshot_   |
-| Instructor Dashboard | Create/Manage courses, Upload lessons | _Add screenshot_ |
-| Admin Dashboard | Manage users, courses, Reports | _Add screenshot_  |
+**Home:**
+
+<img src="./screenshots/home.jpg" alt="Home Page" width="600"/>
+
+**Course Listing:**
+
+<img src="./screenshots/courses.jpg" alt="Course Listing" width="600"/>
+
+**Create Course:**
+
+<img src="./screenshots/create-course.jpg" alt="Course Listing" width="600"/>
+
+**Login:**
+
+<img src="./screenshots/login.jpg" alt="Login Page" width="400"/>
+
+**Register:**
+
+<img src="./screenshots/register.jpg" alt="Register Page" width="400"/>
+
+**Student Dashboard:**
+
+<img src="./screenshots/student-dashboard.jpg" alt="Student Dashboard" width="600"/>
+
+**Instructor Dashboard:**
+
+<img src="./screenshots/instructor-dashboard.jpg" alt="Instructor Dashboard" width="600"/>
+
+**Admin Dashboard:**
+
+<img src="./screenshots/admin-dashboard.png" alt="Admin Dashboard" width="600"/>
+
 
 ---
 
